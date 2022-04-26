@@ -1,5 +1,5 @@
 # condoWorksParseTest
-CondoWorks parsing water bill test
+Used file reader to parse text document. CondoWorks parsing water bill test
 
 Name: Stephen Huang
 email: stephen.huang380@gmail.com
